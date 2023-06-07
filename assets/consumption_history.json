@@ -1,0 +1,1172 @@
+[
+  {
+    "consumer_unit_id": 0,
+    "month": 5,
+    "year": 2023,
+    "consumption_in_kwh": 660
+  },
+  {
+    "consumer_unit_id": 0,
+    "month": 4,
+    "year": 2023,
+    "consumption_in_kwh": 510
+  },
+  {
+    "consumer_unit_id": 0,
+    "month": 3,
+    "year": 2023,
+    "consumption_in_kwh": 400
+  },
+  {
+    "consumer_unit_id": 0,
+    "month": 2,
+    "year": 2023,
+    "consumption_in_kwh": 490
+  },
+  {
+    "consumer_unit_id": 0,
+    "month": 1,
+    "year": 2023,
+    "consumption_in_kwh": 655
+  },
+  {
+    "consumer_unit_id": 0,
+    "month": 12,
+    "year": 2022,
+    "consumption_in_kwh": 570
+  },
+  {
+    "consumer_unit_id": 0,
+    "month": 11,
+    "year": 2022,
+    "consumption_in_kwh": 645
+  },
+  {
+    "consumer_unit_id": 0,
+    "month": 10,
+    "year": 2022,
+    "consumption_in_kwh": 690
+  },
+  {
+    "consumer_unit_id": 0,
+    "month": 9,
+    "year": 2022,
+    "consumption_in_kwh": 345
+  },
+  {
+    "consumer_unit_id": 0,
+    "month": 8,
+    "year": 2022,
+    "consumption_in_kwh": 470
+  },
+  {
+    "consumer_unit_id": 0,
+    "month": 7,
+    "year": 2022,
+    "consumption_in_kwh": 480
+  },
+  {
+    "consumer_unit_id": 0,
+    "month": 6,
+    "year": 2022,
+    "consumption_in_kwh": 420
+  },
+  {
+    "consumer_unit_id": 0,
+    "month": 5,
+    "year": 2022,
+    "consumption_in_kwh": 650
+  },
+  {
+    "consumer_unit_id": 1,
+    "month": 5,
+    "year": 2023,
+    "consumption_in_kwh": 485
+  },
+  {
+    "consumer_unit_id": 1,
+    "month": 4,
+    "year": 2023,
+    "consumption_in_kwh": 615
+  },
+  {
+    "consumer_unit_id": 1,
+    "month": 3,
+    "year": 2023,
+    "consumption_in_kwh": 600
+  },
+  {
+    "consumer_unit_id": 1,
+    "month": 2,
+    "year": 2023,
+    "consumption_in_kwh": 360
+  },
+  {
+    "consumer_unit_id": 1,
+    "month": 1,
+    "year": 2023,
+    "consumption_in_kwh": 650
+  },
+  {
+    "consumer_unit_id": 1,
+    "month": 12,
+    "year": 2022,
+    "consumption_in_kwh": 370
+  },
+  {
+    "consumer_unit_id": 1,
+    "month": 11,
+    "year": 2022,
+    "consumption_in_kwh": 545
+  },
+  {
+    "consumer_unit_id": 1,
+    "month": 10,
+    "year": 2022,
+    "consumption_in_kwh": 550
+  },
+  {
+    "consumer_unit_id": 1,
+    "month": 9,
+    "year": 2022,
+    "consumption_in_kwh": 545
+  },
+  {
+    "consumer_unit_id": 1,
+    "month": 8,
+    "year": 2022,
+    "consumption_in_kwh": 440
+  },
+  {
+    "consumer_unit_id": 1,
+    "month": 7,
+    "year": 2022,
+    "consumption_in_kwh": 435
+  },
+  {
+    "consumer_unit_id": 1,
+    "month": 6,
+    "year": 2022,
+    "consumption_in_kwh": 330
+  },
+  {
+    "consumer_unit_id": 1,
+    "month": 5,
+    "year": 2022,
+    "consumption_in_kwh": 665
+  },
+  {
+    "consumer_unit_id": 2,
+    "month": 5,
+    "year": 2023,
+    "consumption_in_kwh": 305
+  },
+  {
+    "consumer_unit_id": 2,
+    "month": 4,
+    "year": 2023,
+    "consumption_in_kwh": 675
+  },
+  {
+    "consumer_unit_id": 2,
+    "month": 3,
+    "year": 2023,
+    "consumption_in_kwh": 320
+  },
+  {
+    "consumer_unit_id": 2,
+    "month": 2,
+    "year": 2023,
+    "consumption_in_kwh": 400
+  },
+  {
+    "consumer_unit_id": 2,
+    "month": 1,
+    "year": 2023,
+    "consumption_in_kwh": 360
+  },
+  {
+    "consumer_unit_id": 2,
+    "month": 12,
+    "year": 2022,
+    "consumption_in_kwh": 365
+  },
+  {
+    "consumer_unit_id": 2,
+    "month": 11,
+    "year": 2022,
+    "consumption_in_kwh": 365
+  },
+  {
+    "consumer_unit_id": 2,
+    "month": 10,
+    "year": 2022,
+    "consumption_in_kwh": 620
+  },
+  {
+    "consumer_unit_id": 2,
+    "month": 9,
+    "year": 2022,
+    "consumption_in_kwh": 350
+  },
+  {
+    "consumer_unit_id": 2,
+    "month": 8,
+    "year": 2022,
+    "consumption_in_kwh": 635
+  },
+  {
+    "consumer_unit_id": 2,
+    "month": 7,
+    "year": 2022,
+    "consumption_in_kwh": 500
+  },
+  {
+    "consumer_unit_id": 2,
+    "month": 6,
+    "year": 2022,
+    "consumption_in_kwh": 680
+  },
+  {
+    "consumer_unit_id": 2,
+    "month": 5,
+    "year": 2022,
+    "consumption_in_kwh": 580
+  },
+  {
+    "consumer_unit_id": 3,
+    "month": 5,
+    "year": 2023,
+    "consumption_in_kwh": 615
+  },
+  {
+    "consumer_unit_id": 3,
+    "month": 4,
+    "year": 2023,
+    "consumption_in_kwh": 390
+  },
+  {
+    "consumer_unit_id": 3,
+    "month": 3,
+    "year": 2023,
+    "consumption_in_kwh": 320
+  },
+  {
+    "consumer_unit_id": 3,
+    "month": 2,
+    "year": 2023,
+    "consumption_in_kwh": 420
+  },
+  {
+    "consumer_unit_id": 3,
+    "month": 1,
+    "year": 2023,
+    "consumption_in_kwh": 395
+  },
+  {
+    "consumer_unit_id": 3,
+    "month": 12,
+    "year": 2022,
+    "consumption_in_kwh": 490
+  },
+  {
+    "consumer_unit_id": 3,
+    "month": 11,
+    "year": 2022,
+    "consumption_in_kwh": 680
+  },
+  {
+    "consumer_unit_id": 3,
+    "month": 10,
+    "year": 2022,
+    "consumption_in_kwh": 560
+  },
+  {
+    "consumer_unit_id": 3,
+    "month": 9,
+    "year": 2022,
+    "consumption_in_kwh": 505
+  },
+  {
+    "consumer_unit_id": 3,
+    "month": 8,
+    "year": 2022,
+    "consumption_in_kwh": 585
+  },
+  {
+    "consumer_unit_id": 3,
+    "month": 7,
+    "year": 2022,
+    "consumption_in_kwh": 565
+  },
+  {
+    "consumer_unit_id": 3,
+    "month": 6,
+    "year": 2022,
+    "consumption_in_kwh": 615
+  },
+  {
+    "consumer_unit_id": 3,
+    "month": 5,
+    "year": 2022,
+    "consumption_in_kwh": 335
+  },
+  {
+    "consumer_unit_id": 4,
+    "month": 5,
+    "year": 2023,
+    "consumption_in_kwh": 500
+  },
+  {
+    "consumer_unit_id": 4,
+    "month": 4,
+    "year": 2023,
+    "consumption_in_kwh": 445
+  },
+  {
+    "consumer_unit_id": 4,
+    "month": 3,
+    "year": 2023,
+    "consumption_in_kwh": 380
+  },
+  {
+    "consumer_unit_id": 4,
+    "month": 2,
+    "year": 2023,
+    "consumption_in_kwh": 470
+  },
+  {
+    "consumer_unit_id": 4,
+    "month": 1,
+    "year": 2023,
+    "consumption_in_kwh": 560
+  },
+  {
+    "consumer_unit_id": 4,
+    "month": 12,
+    "year": 2022,
+    "consumption_in_kwh": 370
+  },
+  {
+    "consumer_unit_id": 4,
+    "month": 11,
+    "year": 2022,
+    "consumption_in_kwh": 685
+  },
+  {
+    "consumer_unit_id": 4,
+    "month": 10,
+    "year": 2022,
+    "consumption_in_kwh": 390
+  },
+  {
+    "consumer_unit_id": 4,
+    "month": 9,
+    "year": 2022,
+    "consumption_in_kwh": 310
+  },
+  {
+    "consumer_unit_id": 4,
+    "month": 8,
+    "year": 2022,
+    "consumption_in_kwh": 580
+  },
+  {
+    "consumer_unit_id": 4,
+    "month": 7,
+    "year": 2022,
+    "consumption_in_kwh": 515
+  },
+  {
+    "consumer_unit_id": 4,
+    "month": 6,
+    "year": 2022,
+    "consumption_in_kwh": 415
+  },
+  {
+    "consumer_unit_id": 4,
+    "month": 5,
+    "year": 2022,
+    "consumption_in_kwh": 645
+  },
+  {
+    "consumer_unit_id": 5,
+    "month": 5,
+    "year": 2023,
+    "consumption_in_kwh": 465
+  },
+  {
+    "consumer_unit_id": 5,
+    "month": 4,
+    "year": 2023,
+    "consumption_in_kwh": 350
+  },
+  {
+    "consumer_unit_id": 5,
+    "month": 3,
+    "year": 2023,
+    "consumption_in_kwh": 545
+  },
+  {
+    "consumer_unit_id": 5,
+    "month": 2,
+    "year": 2023,
+    "consumption_in_kwh": 440
+  },
+  {
+    "consumer_unit_id": 5,
+    "month": 1,
+    "year": 2023,
+    "consumption_in_kwh": 315
+  },
+  {
+    "consumer_unit_id": 5,
+    "month": 12,
+    "year": 2022,
+    "consumption_in_kwh": 640
+  },
+  {
+    "consumer_unit_id": 5,
+    "month": 11,
+    "year": 2022,
+    "consumption_in_kwh": 340
+  },
+  {
+    "consumer_unit_id": 5,
+    "month": 10,
+    "year": 2022,
+    "consumption_in_kwh": 400
+  },
+  {
+    "consumer_unit_id": 5,
+    "month": 9,
+    "year": 2022,
+    "consumption_in_kwh": 420
+  },
+  {
+    "consumer_unit_id": 5,
+    "month": 8,
+    "year": 2022,
+    "consumption_in_kwh": 370
+  },
+  {
+    "consumer_unit_id": 5,
+    "month": 7,
+    "year": 2022,
+    "consumption_in_kwh": 375
+  },
+  {
+    "consumer_unit_id": 5,
+    "month": 6,
+    "year": 2022,
+    "consumption_in_kwh": 565
+  },
+  {
+    "consumer_unit_id": 5,
+    "month": 5,
+    "year": 2022,
+    "consumption_in_kwh": 585
+  },
+  {
+    "consumer_unit_id": 6,
+    "month": 5,
+    "year": 2023,
+    "consumption_in_kwh": 430
+  },
+  {
+    "consumer_unit_id": 6,
+    "month": 4,
+    "year": 2023,
+    "consumption_in_kwh": 685
+  },
+  {
+    "consumer_unit_id": 6,
+    "month": 3,
+    "year": 2023,
+    "consumption_in_kwh": 345
+  },
+  {
+    "consumer_unit_id": 6,
+    "month": 2,
+    "year": 2023,
+    "consumption_in_kwh": 430
+  },
+  {
+    "consumer_unit_id": 6,
+    "month": 1,
+    "year": 2023,
+    "consumption_in_kwh": 490
+  },
+  {
+    "consumer_unit_id": 6,
+    "month": 12,
+    "year": 2022,
+    "consumption_in_kwh": 630
+  },
+  {
+    "consumer_unit_id": 6,
+    "month": 11,
+    "year": 2022,
+    "consumption_in_kwh": 610
+  },
+  {
+    "consumer_unit_id": 6,
+    "month": 10,
+    "year": 2022,
+    "consumption_in_kwh": 425
+  },
+  {
+    "consumer_unit_id": 6,
+    "month": 9,
+    "year": 2022,
+    "consumption_in_kwh": 410
+  },
+  {
+    "consumer_unit_id": 6,
+    "month": 8,
+    "year": 2022,
+    "consumption_in_kwh": 570
+  },
+  {
+    "consumer_unit_id": 6,
+    "month": 7,
+    "year": 2022,
+    "consumption_in_kwh": 685
+  },
+  {
+    "consumer_unit_id": 6,
+    "month": 6,
+    "year": 2022,
+    "consumption_in_kwh": 335
+  },
+  {
+    "consumer_unit_id": 6,
+    "month": 5,
+    "year": 2022,
+    "consumption_in_kwh": 660
+  },
+  {
+    "consumer_unit_id": 7,
+    "month": 5,
+    "year": 2023,
+    "consumption_in_kwh": 435
+  },
+  {
+    "consumer_unit_id": 7,
+    "month": 4,
+    "year": 2023,
+    "consumption_in_kwh": 555
+  },
+  {
+    "consumer_unit_id": 7,
+    "month": 3,
+    "year": 2023,
+    "consumption_in_kwh": 465
+  },
+  {
+    "consumer_unit_id": 7,
+    "month": 2,
+    "year": 2023,
+    "consumption_in_kwh": 695
+  },
+  {
+    "consumer_unit_id": 7,
+    "month": 1,
+    "year": 2023,
+    "consumption_in_kwh": 665
+  },
+  {
+    "consumer_unit_id": 7,
+    "month": 12,
+    "year": 2022,
+    "consumption_in_kwh": 490
+  },
+  {
+    "consumer_unit_id": 7,
+    "month": 11,
+    "year": 2022,
+    "consumption_in_kwh": 495
+  },
+  {
+    "consumer_unit_id": 7,
+    "month": 10,
+    "year": 2022,
+    "consumption_in_kwh": 590
+  },
+  {
+    "consumer_unit_id": 7,
+    "month": 9,
+    "year": 2022,
+    "consumption_in_kwh": 375
+  },
+  {
+    "consumer_unit_id": 7,
+    "month": 8,
+    "year": 2022,
+    "consumption_in_kwh": 430
+  },
+  {
+    "consumer_unit_id": 7,
+    "month": 7,
+    "year": 2022,
+    "consumption_in_kwh": 640
+  },
+  {
+    "consumer_unit_id": 7,
+    "month": 6,
+    "year": 2022,
+    "consumption_in_kwh": 430
+  },
+  {
+    "consumer_unit_id": 7,
+    "month": 5,
+    "year": 2022,
+    "consumption_in_kwh": 680
+  },
+  {
+    "consumer_unit_id": 8,
+    "month": 5,
+    "year": 2023,
+    "consumption_in_kwh": 535
+  },
+  {
+    "consumer_unit_id": 8,
+    "month": 4,
+    "year": 2023,
+    "consumption_in_kwh": 680
+  },
+  {
+    "consumer_unit_id": 8,
+    "month": 3,
+    "year": 2023,
+    "consumption_in_kwh": 620
+  },
+  {
+    "consumer_unit_id": 8,
+    "month": 2,
+    "year": 2023,
+    "consumption_in_kwh": 505
+  },
+  {
+    "consumer_unit_id": 8,
+    "month": 1,
+    "year": 2023,
+    "consumption_in_kwh": 365
+  },
+  {
+    "consumer_unit_id": 8,
+    "month": 12,
+    "year": 2022,
+    "consumption_in_kwh": 420
+  },
+  {
+    "consumer_unit_id": 8,
+    "month": 11,
+    "year": 2022,
+    "consumption_in_kwh": 305
+  },
+  {
+    "consumer_unit_id": 8,
+    "month": 10,
+    "year": 2022,
+    "consumption_in_kwh": 310
+  },
+  {
+    "consumer_unit_id": 8,
+    "month": 9,
+    "year": 2022,
+    "consumption_in_kwh": 540
+  },
+  {
+    "consumer_unit_id": 8,
+    "month": 8,
+    "year": 2022,
+    "consumption_in_kwh": 420
+  },
+  {
+    "consumer_unit_id": 8,
+    "month": 7,
+    "year": 2022,
+    "consumption_in_kwh": 565
+  },
+  {
+    "consumer_unit_id": 8,
+    "month": 6,
+    "year": 2022,
+    "consumption_in_kwh": 630
+  },
+  {
+    "consumer_unit_id": 8,
+    "month": 5,
+    "year": 2022,
+    "consumption_in_kwh": 495
+  },
+  {
+    "consumer_unit_id": 9,
+    "month": 5,
+    "year": 2023,
+    "consumption_in_kwh": 360
+  },
+  {
+    "consumer_unit_id": 9,
+    "month": 4,
+    "year": 2023,
+    "consumption_in_kwh": 430
+  },
+  {
+    "consumer_unit_id": 9,
+    "month": 3,
+    "year": 2023,
+    "consumption_in_kwh": 485
+  },
+  {
+    "consumer_unit_id": 9,
+    "month": 2,
+    "year": 2023,
+    "consumption_in_kwh": 475
+  },
+  {
+    "consumer_unit_id": 9,
+    "month": 1,
+    "year": 2023,
+    "consumption_in_kwh": 600
+  },
+  {
+    "consumer_unit_id": 9,
+    "month": 12,
+    "year": 2022,
+    "consumption_in_kwh": 515
+  },
+  {
+    "consumer_unit_id": 9,
+    "month": 11,
+    "year": 2022,
+    "consumption_in_kwh": 435
+  },
+  {
+    "consumer_unit_id": 9,
+    "month": 10,
+    "year": 2022,
+    "consumption_in_kwh": 415
+  },
+  {
+    "consumer_unit_id": 9,
+    "month": 9,
+    "year": 2022,
+    "consumption_in_kwh": 475
+  },
+  {
+    "consumer_unit_id": 9,
+    "month": 8,
+    "year": 2022,
+    "consumption_in_kwh": 300
+  },
+  {
+    "consumer_unit_id": 9,
+    "month": 7,
+    "year": 2022,
+    "consumption_in_kwh": 525
+  },
+  {
+    "consumer_unit_id": 9,
+    "month": 6,
+    "year": 2022,
+    "consumption_in_kwh": 365
+  },
+  {
+    "consumer_unit_id": 9,
+    "month": 5,
+    "year": 2022,
+    "consumption_in_kwh": 415
+  },
+  {
+    "consumer_unit_id": 10,
+    "month": 5,
+    "year": 2023,
+    "consumption_in_kwh": 550
+  },
+  {
+    "consumer_unit_id": 10,
+    "month": 4,
+    "year": 2023,
+    "consumption_in_kwh": 410
+  },
+  {
+    "consumer_unit_id": 10,
+    "month": 3,
+    "year": 2023,
+    "consumption_in_kwh": 630
+  },
+  {
+    "consumer_unit_id": 10,
+    "month": 2,
+    "year": 2023,
+    "consumption_in_kwh": 370
+  },
+  {
+    "consumer_unit_id": 10,
+    "month": 1,
+    "year": 2023,
+    "consumption_in_kwh": 505
+  },
+  {
+    "consumer_unit_id": 10,
+    "month": 12,
+    "year": 2022,
+    "consumption_in_kwh": 465
+  },
+  {
+    "consumer_unit_id": 10,
+    "month": 11,
+    "year": 2022,
+    "consumption_in_kwh": 305
+  },
+  {
+    "consumer_unit_id": 10,
+    "month": 10,
+    "year": 2022,
+    "consumption_in_kwh": 370
+  },
+  {
+    "consumer_unit_id": 10,
+    "month": 9,
+    "year": 2022,
+    "consumption_in_kwh": 555
+  },
+  {
+    "consumer_unit_id": 10,
+    "month": 8,
+    "year": 2022,
+    "consumption_in_kwh": 410
+  },
+  {
+    "consumer_unit_id": 10,
+    "month": 7,
+    "year": 2022,
+    "consumption_in_kwh": 570
+  },
+  {
+    "consumer_unit_id": 10,
+    "month": 6,
+    "year": 2022,
+    "consumption_in_kwh": 530
+  },
+  {
+    "consumer_unit_id": 10,
+    "month": 5,
+    "year": 2022,
+    "consumption_in_kwh": 645
+  },
+  {
+    "consumer_unit_id": 11,
+    "month": 5,
+    "year": 2023,
+    "consumption_in_kwh": 670
+  },
+  {
+    "consumer_unit_id": 11,
+    "month": 4,
+    "year": 2023,
+    "consumption_in_kwh": 615
+  },
+  {
+    "consumer_unit_id": 11,
+    "month": 3,
+    "year": 2023,
+    "consumption_in_kwh": 405
+  },
+  {
+    "consumer_unit_id": 11,
+    "month": 2,
+    "year": 2023,
+    "consumption_in_kwh": 640
+  },
+  {
+    "consumer_unit_id": 11,
+    "month": 1,
+    "year": 2023,
+    "consumption_in_kwh": 620
+  },
+  {
+    "consumer_unit_id": 11,
+    "month": 12,
+    "year": 2022,
+    "consumption_in_kwh": 440
+  },
+  {
+    "consumer_unit_id": 11,
+    "month": 11,
+    "year": 2022,
+    "consumption_in_kwh": 600
+  },
+  {
+    "consumer_unit_id": 11,
+    "month": 10,
+    "year": 2022,
+    "consumption_in_kwh": 405
+  },
+  {
+    "consumer_unit_id": 11,
+    "month": 9,
+    "year": 2022,
+    "consumption_in_kwh": 425
+  },
+  {
+    "consumer_unit_id": 11,
+    "month": 8,
+    "year": 2022,
+    "consumption_in_kwh": 310
+  },
+  {
+    "consumer_unit_id": 11,
+    "month": 7,
+    "year": 2022,
+    "consumption_in_kwh": 330
+  },
+  {
+    "consumer_unit_id": 11,
+    "month": 6,
+    "year": 2022,
+    "consumption_in_kwh": 570
+  },
+  {
+    "consumer_unit_id": 11,
+    "month": 5,
+    "year": 2022,
+    "consumption_in_kwh": 435
+  },
+  {
+    "consumer_unit_id": 12,
+    "month": 5,
+    "year": 2023,
+    "consumption_in_kwh": 585
+  },
+  {
+    "consumer_unit_id": 12,
+    "month": 4,
+    "year": 2023,
+    "consumption_in_kwh": 495
+  },
+  {
+    "consumer_unit_id": 12,
+    "month": 3,
+    "year": 2023,
+    "consumption_in_kwh": 520
+  },
+  {
+    "consumer_unit_id": 12,
+    "month": 2,
+    "year": 2023,
+    "consumption_in_kwh": 390
+  },
+  {
+    "consumer_unit_id": 12,
+    "month": 1,
+    "year": 2023,
+    "consumption_in_kwh": 345
+  },
+  {
+    "consumer_unit_id": 12,
+    "month": 12,
+    "year": 2022,
+    "consumption_in_kwh": 635
+  },
+  {
+    "consumer_unit_id": 12,
+    "month": 11,
+    "year": 2022,
+    "consumption_in_kwh": 655
+  },
+  {
+    "consumer_unit_id": 12,
+    "month": 10,
+    "year": 2022,
+    "consumption_in_kwh": 550
+  },
+  {
+    "consumer_unit_id": 12,
+    "month": 9,
+    "year": 2022,
+    "consumption_in_kwh": 610
+  },
+  {
+    "consumer_unit_id": 12,
+    "month": 8,
+    "year": 2022,
+    "consumption_in_kwh": 580
+  },
+  {
+    "consumer_unit_id": 12,
+    "month": 7,
+    "year": 2022,
+    "consumption_in_kwh": 535
+  },
+  {
+    "consumer_unit_id": 12,
+    "month": 6,
+    "year": 2022,
+    "consumption_in_kwh": 360
+  },
+  {
+    "consumer_unit_id": 12,
+    "month": 5,
+    "year": 2022,
+    "consumption_in_kwh": 440
+  },
+  {
+    "consumer_unit_id": 13,
+    "month": 5,
+    "year": 2023,
+    "consumption_in_kwh": 435
+  },
+  {
+    "consumer_unit_id": 13,
+    "month": 4,
+    "year": 2023,
+    "consumption_in_kwh": 395
+  },
+  {
+    "consumer_unit_id": 13,
+    "month": 3,
+    "year": 2023,
+    "consumption_in_kwh": 360
+  },
+  {
+    "consumer_unit_id": 13,
+    "month": 2,
+    "year": 2023,
+    "consumption_in_kwh": 420
+  },
+  {
+    "consumer_unit_id": 13,
+    "month": 1,
+    "year": 2023,
+    "consumption_in_kwh": 655
+  },
+  {
+    "consumer_unit_id": 13,
+    "month": 12,
+    "year": 2022,
+    "consumption_in_kwh": 505
+  },
+  {
+    "consumer_unit_id": 13,
+    "month": 11,
+    "year": 2022,
+    "consumption_in_kwh": 320
+  },
+  {
+    "consumer_unit_id": 13,
+    "month": 10,
+    "year": 2022,
+    "consumption_in_kwh": 525
+  },
+  {
+    "consumer_unit_id": 13,
+    "month": 9,
+    "year": 2022,
+    "consumption_in_kwh": 580
+  },
+  {
+    "consumer_unit_id": 13,
+    "month": 8,
+    "year": 2022,
+    "consumption_in_kwh": 385
+  },
+  {
+    "consumer_unit_id": 13,
+    "month": 7,
+    "year": 2022,
+    "consumption_in_kwh": 365
+  },
+  {
+    "consumer_unit_id": 13,
+    "month": 6,
+    "year": 2022,
+    "consumption_in_kwh": 565
+  },
+  {
+    "consumer_unit_id": 13,
+    "month": 5,
+    "year": 2022,
+    "consumption_in_kwh": 320
+  },
+  {
+    "consumer_unit_id": 14,
+    "month": 5,
+    "year": 2023,
+    "consumption_in_kwh": 445
+  },
+  {
+    "consumer_unit_id": 14,
+    "month": 4,
+    "year": 2023,
+    "consumption_in_kwh": 500
+  },
+  {
+    "consumer_unit_id": 14,
+    "month": 3,
+    "year": 2023,
+    "consumption_in_kwh": 420
+  },
+  {
+    "consumer_unit_id": 14,
+    "month": 2,
+    "year": 2023,
+    "consumption_in_kwh": 450
+  },
+  {
+    "consumer_unit_id": 14,
+    "month": 1,
+    "year": 2023,
+    "consumption_in_kwh": 585
+  },
+  {
+    "consumer_unit_id": 14,
+    "month": 12,
+    "year": 2022,
+    "consumption_in_kwh": 545
+  },
+  {
+    "consumer_unit_id": 14,
+    "month": 11,
+    "year": 2022,
+    "consumption_in_kwh": 665
+  },
+  {
+    "consumer_unit_id": 14,
+    "month": 10,
+    "year": 2022,
+    "consumption_in_kwh": 370
+  },
+  {
+    "consumer_unit_id": 14,
+    "month": 9,
+    "year": 2022,
+    "consumption_in_kwh": 480
+  },
+  {
+    "consumer_unit_id": 14,
+    "month": 8,
+    "year": 2022,
+    "consumption_in_kwh": 650
+  },
+  {
+    "consumer_unit_id": 14,
+    "month": 7,
+    "year": 2022,
+    "consumption_in_kwh": 400
+  },
+  {
+    "consumer_unit_id": 14,
+    "month": 6,
+    "year": 2022,
+    "consumption_in_kwh": 610
+  },
+  {
+    "consumer_unit_id": 14,
+    "month": 5,
+    "year": 2022,
+    "consumption_in_kwh": 400
+  }
+]

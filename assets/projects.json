@@ -1,0 +1,37 @@
+[
+  {
+    "id": 0,
+    "contact_id": 0,
+    "address": "Morro de Rodrigues, Apolonia, 83442681 das Neves / AM",
+    "installation_number": "538850585",
+    "monthly_generation_in_kwh": 4800
+  },
+  {
+    "id": 1,
+    "contact_id": 0,
+    "address": "Largo Cunha, Biquinhas, 34539969 Correia das Pedras / MA",
+    "installation_number": "7712040",
+    "monthly_generation_in_kwh": 4800
+  },
+  {
+    "id": 2,
+    "contact_id": 1,
+    "address": "Trecho Araújo, Vila Minaslandia, 02779172 da Cunha do Campo / AC",
+    "installation_number": "47304982883",
+    "monthly_generation_in_kwh": 7000
+  },
+  {
+    "id": 3,
+    "contact_id": 2,
+    "address": "Estação de da Paz, 2, João Pinheiro, 87845-151 da Conceição / MG",
+    "installation_number": "25945554201",
+    "monthly_generation_in_kwh": 5050
+  },
+  {
+    "id": 4,
+    "contact_id": 2,
+    "address": "Sítio Lívia Barbosa, 39, Confisco, 16881-281 Vieira de Cardoso / MT",
+    "installation_number": "67352055683",
+    "monthly_generation_in_kwh": 5850
+  }
+]
